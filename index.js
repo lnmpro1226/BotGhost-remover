@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Robin NTW : http://localhost:${port}`);
+  console.log(`🔗 Listening to GamerSMP a Legjobb : http://localhost:${port}`);
   console.log(`🔗 Powered By Robinayush`);
 });
 
 
-const statusMessages = ["GamerSMP a Legjobb!"];
+const statusMessages = ["Listening to GamerSMP a Legjobb!"];
 
 
 let currentIndex = 0;
