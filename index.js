@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["GamerSMP is the best!"];
+const statusMessages = ["LavaMC kedvence✨"];
 
 
 let currentIndex = 0;
