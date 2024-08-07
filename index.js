@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 GamerSMP is the best! : http://localhost:${port}`);
+  console.log(`🔗 Azta paszta! : http://localhost:${port}`);
   console.log(`🔗 Powered By Robinayush`);
 });
 
 
-const statusMessages = ["GamerSMP is the best!"];
+const statusMessages = ["Enderman vagyok!"];
 
 
 let currentIndex = 0;
