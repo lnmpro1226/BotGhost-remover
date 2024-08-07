@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Enderman vagyok <:ender:1260181787154452541>"];
+const statusMessages = ["Enderman vagyok!"];
 
 
 let currentIndex = 0;
